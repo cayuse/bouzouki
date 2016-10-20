@@ -3,6 +3,8 @@ external_libs/*
 
 !external_libs/libs.txt
 
+.pyvenv3/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
