@@ -1,3 +1,12 @@
 get and compile python-audio-tools here
 
 https://github.com/tuffy/python-audio-tools
+
+for aac and mp3 playback you also need:
+
+faad
+faac
+libmpg123-0
+libmp3lame0
+
+if not installed
